@@ -1,0 +1,16 @@
+C:\Users\丁浩\Source\Repos\FenbuDuxie\FenbuDuxie\bin\Debug\netcoreapp3.1\FenbuDuxie.exe
+C:\Users\丁浩\Source\Repos\FenbuDuxie\FenbuDuxie\obj\Debug\netcoreapp3.1\FenbuDuxie.csprojAssemblyReference.cache
+C:\Users\丁浩\Source\Repos\FenbuDuxie\FenbuDuxie\obj\Debug\netcoreapp3.1\FenbuDuxie.AssemblyInfoInputs.cache
+C:\Users\丁浩\Source\Repos\FenbuDuxie\FenbuDuxie\obj\Debug\netcoreapp3.1\FenbuDuxie.AssemblyInfo.cs
+C:\Users\丁浩\Source\Repos\FenbuDuxie\FenbuDuxie\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\丁浩\Source\Repos\FenbuDuxie\FenbuDuxie\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\丁浩\Source\Repos\FenbuDuxie\FenbuDuxie\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\丁浩\Source\Repos\FenbuDuxie\FenbuDuxie\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\丁浩\Source\Repos\FenbuDuxie\FenbuDuxie\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\丁浩\Source\Repos\FenbuDuxie\FenbuDuxie\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\丁浩\Source\Repos\FenbuDuxie\FenbuDuxie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\丁浩\Source\Repos\FenbuDuxie\FenbuDuxie\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\丁浩\Source\Repos\FenbuDuxie\FenbuDuxie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\丁浩\Source\Repos\FenbuDuxie\FenbuDuxie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\丁浩\Source\Repos\FenbuDuxie\FenbuDuxie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\丁浩\Source\Repos\FenbuDuxie\FenbuDuxie\obj\Debug\netcoreapp3.1\FenbuDuxie.csproj.CopyComplete
